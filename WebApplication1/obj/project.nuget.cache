@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Kgz8VWRSoQm9WmlxdYa5zB4Msk+HNCOgeXC46kqd0m3pmWAgKvPIykkwZbOYG6RUrtSq6ggjf27O6FVso9dKzA==",
+  "dgSpecHash": "ZEuBd6clNhrTZ6uMRXSFk1uM6bd0CiyssJmCScSujpUZIjjNqM7GvH+HBLa1ZZScGrRgkMH875wRk+WGAa9lng==",
   "success": true,
   "projectFilePath": "C:\\Users\\64210\\source\\repos\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\64210\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,11 +9,8 @@ C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.pdb
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.Views.dll
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.Views.pdb
-C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csprojAssemblyReference.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfoInputs.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfo.cs
-C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CoreCompileInputs.cache
-C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorAssemblyInfo.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorAssemblyInfo.cs
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.TagHelpers.input.cache
@@ -35,3 +32,7 @@ C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.pdb
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.genruntimeconfig.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CopyComplete
+C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csprojAssemblyReference.cache
+C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Dockerfile
