@@ -36,3 +36,40 @@ C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csprojAssemblyReference.cache
 C:\Users\64210\source\repos\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Dockerfile
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.exe
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Dockerfile
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.deps.json
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.runtimeconfig.json
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.runtimeconfig.dev.json
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.dll
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.pdb
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.Views.dll
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.Views.pdb
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfoInputs.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfo.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CoreCompileInputs.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorAssemblyInfo.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorAssemblyInfo.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.TagHelpers.input.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.TagHelpers.output.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorCoreGenerate.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorTargetAssemblyInfo.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorTargetAssemblyInfo.cs
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.Views.pdb
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Hello-World.StaticWebAssets.Manifest.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Hello-World.StaticWebAssets.xml
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.dll
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.pdb
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.genruntimeconfig.cache
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CopyComplete

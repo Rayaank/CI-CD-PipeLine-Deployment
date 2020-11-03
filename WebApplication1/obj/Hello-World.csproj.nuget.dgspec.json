@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\64210\\source\\repos\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj": {}
+    "C:\\New folder\\VS Code\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\64210\\source\\repos\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj": {
+    "C:\\New folder\\VS Code\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\64210\\source\\repos\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj",
+        "projectUniqueName": "C:\\New folder\\VS Code\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj",
         "projectName": "Hello-World",
-        "projectPath": "C:\\Users\\64210\\source\\repos\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj",
-        "packagesPath": "C:\\Users\\64210\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\64210\\source\\repos\\CI-CD-PipeLine-Deployment\\WebApplication1\\obj\\",
+        "projectPath": "C:\\New folder\\VS Code\\CI-CD-PipeLine-Deployment\\WebApplication1\\Hello-World.csproj",
+        "packagesPath": "C:\\Users\\vsadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\New folder\\VS Code\\CI-CD-PipeLine-Deployment\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\64210\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vsadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
