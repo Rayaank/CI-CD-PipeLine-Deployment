@@ -10,7 +10,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-nanoserver-1809 AS build
 WORKDIR /src
-COPY ["WebApplication1/Hello-World.csproj", "WebApplication1/"]
+COPY ["WebApplication1/Hello-World.csproj", "./"]
 RUN dotnet restore "WebApplication1/Hello-World.csproj"
 COPY . .
 WORKDIR "/src/WebApplication1"
