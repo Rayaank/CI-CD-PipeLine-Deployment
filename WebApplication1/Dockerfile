@@ -9,11 +9,10 @@ EXPOSE 80
 EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-nanoserver-1809 AS build
-WORKDIR "/src/WebApplication1"
-COPY ["WebApplication1/Hello-World.csproj", "./"]
-RUN dotnet restore "WebApplication1/Hello-World.csproj"
+WORKDIR /src
+COPY ["Hello-World.csproj", "./"]
+RUN dotnet restore "Hello-World.csproj"
 COPY . .
-WORKDIR "/src/WebApplication1"
 RUN dotnet build "Hello-World.csproj" -c Release -o /app/build
 
 FROM build AS publish
