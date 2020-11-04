@@ -50,8 +50,6 @@ C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcor
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\bin\Debug\netcoreapp3.1\Hello-World.Views.pdb
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfoInputs.cache
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.AssemblyInfo.cs
-C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CoreCompileInputs.cache
-C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.MvcApplicationPartsAssemblyInfo.cache
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorAssemblyInfo.cache
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.RazorAssemblyInfo.cs
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.TagHelpers.input.cache
@@ -73,3 +71,4 @@ C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcor
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.pdb
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.genruntimeconfig.cache
 C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csproj.CopyComplete
+C:\New folder\VS Code\CI-CD-PipeLine-Deployment\WebApplication1\obj\Debug\netcoreapp3.1\Hello-World.csprojAssemblyReference.cache
